@@ -7,9 +7,7 @@ void setup() {
   pinMode(led3, OUTPUT); pinMode(led4, OUTPUT);
   pinMode(led5, OUTPUT); pinMode(led6, OUTPUT);
   pinMode(led7, OUTPUT); pinMode(led8, OUTPUT);
-
 }
-
 void loop() {
   digitalWrite(led1, 1);
   delay(300);
